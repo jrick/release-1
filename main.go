@@ -89,9 +89,9 @@ type manifest []manifestLine
 
 const (
 	decredRelver      = "v2.0.5"
-	bisonwalletRelver = "v1.0.2"
+	bisonwalletRelver = "v1.0.3"
 	ldVersion         = "2.0.5"
-	bisonwalletLdVer  = "1.0.2"
+	bisonwalletLdVer  = "1.0.3"
 	prerelease        = ""
 )
 
