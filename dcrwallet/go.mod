@@ -2,7 +2,7 @@ module decred.org/release/v2/dcrwallet
 
 go 1.24.0
 
-require decred.org/dcrwallet/v5 v5.0.3 // indirect
+require decred.org/dcrwallet/v5 v5.0.6 // indirect
 
 require (
 	decred.org/cspp/v2 v2.4.0 // indirect
@@ -24,15 +24,15 @@ require (
 	github.com/decred/dcrd/database/v3 v3.0.3 // indirect
 	github.com/decred/dcrd/dcrec v1.0.1 // indirect
 	github.com/decred/dcrd/dcrec/edwards/v2 v2.0.4 // indirect
-	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.0 // indirect
+	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.1 // indirect
 	github.com/decred/dcrd/dcrjson/v4 v4.2.0 // indirect
 	github.com/decred/dcrd/dcrutil/v4 v4.0.3 // indirect
 	github.com/decred/dcrd/gcs/v4 v4.1.1 // indirect
 	github.com/decred/dcrd/hdkeychain/v3 v3.1.3 // indirect
-	github.com/decred/dcrd/mixing v0.6.1 // indirect
+	github.com/decred/dcrd/mixing v0.7.2 // indirect
 	github.com/decred/dcrd/rpc/jsonrpc/types/v4 v4.4.0 // indirect
 	github.com/decred/dcrd/txscript/v4 v4.1.2 // indirect
-	github.com/decred/dcrd/wire v1.7.2 // indirect
+	github.com/decred/dcrd/wire v1.7.5 // indirect
 	github.com/decred/go-socks v1.1.0 // indirect
 	github.com/decred/slog v1.2.0 // indirect
 	github.com/decred/vspd/client/v4 v4.0.2 // indirect
