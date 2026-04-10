@@ -2,7 +2,7 @@ module decred.org/release/v2/dcrctl
 
 go 1.24.0
 
-require decred.org/dcrctl v0.0.0-20260406194804-8c8046a4943d // indirect
+require decred.org/dcrctl v0.0.0-20260409220341-dfc3441217f9 // indirect
 
 require (
 	decred.org/dcrwallet/v5 v5.0.4 // indirect
